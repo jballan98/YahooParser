@@ -4,3 +4,6 @@ Parser for yahoo finance data. Template has a couple different DCFs. (Yahoo) is 
 will require the dcf template to be in the project folder and a "info" folder in the project folder for the output models.
 
 To use just replace the "ticker" with a desired ticker.
+
+video of process: 
+https://www.youtube.com/watch?v=ameo_TPYeCk
