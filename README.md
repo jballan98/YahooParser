@@ -1,9 +1,9 @@
 # YahooParser
-Parser for yahoo finance data. Template has a couple different DCFs. (Yahoo) is using yahoos calculated FCFs. The others are different templates to be manipulated on a stock to stock basis. 
 
-will require the dcf template to be in the project folder and a "info" folder in the project folder for the output models.
-
-To use just replace the "ticker" with a desired ticker.
+- A parser for Yahoo Finance data, featuring several DCF models.
+- The "Yahoo" model uses Yahoo’s calculated Free Cash Flows (FCFs), while the other templates can be adjusted on a stock-by-stock basis.
+- The DCF template must be placed in the project folder, and an "info" folder is needed to store the output models.
+- To use, simply replace the "ticker" with the desired stock ticker.
 
 video of process: 
 https://www.youtube.com/watch?v=ameo_TPYeCk
